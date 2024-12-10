@@ -3,7 +3,8 @@ TodoApps: Keep Track of Your Tasks Efficiently
 
 TodoApps adalah aplikasi web yang dirancang untuk membantu kamu mengelola tugas-tugas harian dengan mudah dan efisien. Dengan antarmuka yang sederhana namun fungsional, TodoApps memungkinkan kamu untuk menambahkan, menyelesaikan, dan menghapus tugas dengan beberapa klik saja.
 
-Fitur Utama:
+A. Fitur Utama:
+
 Tambah Tugas: Input tugas baru dengan tanggal jatuh tempo, dan simpan tugas-tugas pentingmu agar tidak terlupakan.
 
 Tandai Selesai: Tandai tugas yang sudah selesai dan pindahkan ke daftar tugas yang sudah diselesaikan.
@@ -14,7 +15,9 @@ Ganti Tema: Sesuaikan tampilan aplikasi dengan mode terang atau gelap sesuai pre
 
 Penyimpanan Lokal: Semua tugas disimpan di penyimpanan lokal browser, memastikan tugas tetap ada meskipun kamu memuat ulang halaman.
 
-Antarmuka Pengguna:
+
+B. Antarmuka Pengguna:
+
 Header: Mengandung logo aplikasi yang bisa diklik untuk kembali ke bagian atas halaman dengan animasi halus.
 
 Formulir Input: Formulir sederhana untuk menambahkan tugas baru dengan deskripsi dan tanggal jatuh tempo.
